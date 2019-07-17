@@ -4,4 +4,8 @@ Sudoku em linguagem C, usando lista encadeada e ponteiros, existe duas versões 
 imprimir lista,
 apagar lista,
 randomico, e outras
-funções necessarias para funcionamento do sudoku
+funções necessarias para funcionamento do sudoku.
+
+
+
+Existe 3 versões do Sudoku  cada uma com uma estrutura diferente
