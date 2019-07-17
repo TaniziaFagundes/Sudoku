@@ -14,6 +14,9 @@ Existe 3 versões do Sudoku  cada uma com uma estrutura diferente e a Sudoku2 d�
 
 Para executar o jogo:
 [] abra o cmd
+
 [] entre na pasta de destino onde está o codigo fonte
+
 [] compile o codigo com o comando:  gcc nomearquivo.c -o gcc
+
 [] execute com o camando: nomearquivo
