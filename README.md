@@ -8,7 +8,8 @@ Jogo Sudoku na linguagem C, essa aplicação foi feita como trabalho para a mate
 
 ### Existe 3 versões:
 
-Cada versão com uma estrutura de dados diferente e a <b>Sudoku2</b> dá opções de jogadas na posição escolhida no jogo.
+Cada versão com uma estrutura de dados diferente
+<b>Sudoku2</b> dá opções de jogadas possíveis na posição escolhida no jogo.
 
 - [x] usando Matriz
 - [x] usando lista encadeada 
